@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProiectWPFFinal", "ProiectWPFFinal.csproj", "{68885776-8314-4D2A-8757-5D24BD24E44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierAutoModel", "..\AtelierAutoModel\AtelierAutoModel.csproj", "{63B7F81C-68DB-4FF2-85D5-18F813912CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68885776-8314-4D2A-8757-5D24BD24E44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68885776-8314-4D2A-8757-5D24BD24E44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68885776-8314-4D2A-8757-5D24BD24E44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68885776-8314-4D2A-8757-5D24BD24E44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B7F81C-68DB-4FF2-85D5-18F813912CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B7F81C-68DB-4FF2-85D5-18F813912CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B7F81C-68DB-4FF2-85D5-18F813912CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B7F81C-68DB-4FF2-85D5-18F813912CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {093168F0-E40F-4038-AA35-149EA5942497}
+	EndGlobalSection
+EndGlobal
